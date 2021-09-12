@@ -1,0 +1,5 @@
+function ClickConnect(){
+    console.log("Clicked on connect button"); 
+    document.querySelector("Put ID here").click() // Change id here
+}
+setInterval(ClickConnect,60000)
